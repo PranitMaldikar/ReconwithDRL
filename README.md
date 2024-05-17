@@ -14,6 +14,7 @@ This project introduces a new algorithm named Poly-Phasic Gradient-3D (PPG-3D) d
 
 ## Video Demonstration
 Watch the video demonstration of the PPG-3D algorithm in action:
+
 [![Poly-Phasic Gradient-3D Navigation Algorithm](http://img.youtube.com/vi/ThDY31lG0lk/0.jpg)](https://www.youtube.com/watch?v=ThDY31lG0lk)
 
 ## Getting Started
