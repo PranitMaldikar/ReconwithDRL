@@ -1,4 +1,4 @@
-# Poly-Phasic Gradient-3D (PPG-3D) Navigation Algorithm
+# Reconnaissance using Deep Reinforcement Learning 
 
 [![Poly-Phasic Gradient-3D Navigation Algorithm](http://img.youtube.com/vi/ThDY31lG0lk/0.jpg)](https://www.youtube.com/watch?v=ThDY31lG0lk)
 
@@ -9,7 +9,7 @@ This project introduces a new algorithm named Poly-Phasic Gradient-3D (PPG-3D) d
 - **Algorithm Development**: Created, designed, and implemented a novel navigation algorithm, PPG-3D, based on the existing PPG algorithm.
 - **Reinforcement Learning**: Leveraged reinforcement learning to optimize the action-taking policy for drone navigation. Trained and generalized the model using virtual sensory data from LiDAR and image data processed with OpenCV.
 - **Multiagent Reinforcement Learning**: Implemented multiagent reinforcement learning to enhance navigation efficiency in complex environments.
-- **Realistic Simulations**: Utilized the Unity engine to import and interact with realistic obstacle-rich environments, providing robust training scenarios for the algorithm.
+- **Realistic Simulations**: Utilized the Unreal engine to import and interact with realistic obstacle-rich environments, providing robust training scenarios for the algorithm.
 - **Research Publication**: Authored a research paper detailing the PPG-3D algorithm and its applications, currently up for publishing.
 
 ## Video Demonstration
@@ -20,7 +20,7 @@ Watch the video demonstration of the PPG-3D algorithm in action:
 ## Getting Started
 
 ### Prerequisites
-- Unity Engine
+- Unreal Engine
 - Python
 - OpenCV
 - LiDAR sensor simulation tools
@@ -28,7 +28,7 @@ Watch the video demonstration of the PPG-3D algorithm in action:
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YourUsername/PPG-3D-Navigation.git
+    git clone https://github.com/PranitMaldikar/ReconwithDRL.git
     ```
 2. Install the necessary Python packages:
     ```sh
@@ -36,7 +36,7 @@ Watch the video demonstration of the PPG-3D algorithm in action:
     ```
 
 ### Usage
-1. Open the Unity project and import the obstacle-rich environment.
+1. Open the Unreal project and import the obstacle-rich environment.
 2. Run the Python scripts to start the reinforcement learning training process.
 3. Use the trained model to navigate the drone in the simulated environment.
 
